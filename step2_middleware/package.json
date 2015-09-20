@@ -1,0 +1,26 @@
+{
+  "name": "step2_middleware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Zeeshan\"",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-nodemon": "^2.0.4",
+    "gulp-rimraf": "^0.1.1",
+    "gulp-typescript": "^2.9.0",
+    "gulp-watch": "^4.3.5",
+    "tsd": "^0.6.4",
+    "typescript": "^1.6.2"
+  },
+  "dependencies": {
+    "body-parser": "^1.14.0",
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "morgan": "^1.6.1"
+  }
+}
